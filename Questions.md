@@ -1,10 +1,14 @@
 
 ## القسم الأول: أنظمة الرسومات الأساسية (Graphics Systems Basics) - الأسئلة 1-15
 
-**س1:** Which of the following best defines computer graphics?
+**Q1:** Which of the following best defines computer graphics?
+
 A) The study of algorithms for sorting graphical data
+
 B) The study of creating, manipulating, and using visual images in a computer
+
 C) The process of printing images using a laser printer
+
 D) The hardware components of a computer only
 
 **الإجابة الصحيحة: B**

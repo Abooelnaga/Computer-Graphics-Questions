@@ -14,49 +14,73 @@ D) The hardware components of a computer only
 **الإجابة الصحيحة: B**
 
 **Q2:** Which component is specifically designed to perform complex mathematical calculations necessary for graphics rendering?
+
 A) CPU
+
 B) GPU
+
 C) RAM
+
 D) Frame Buffer
 
 **الإجابة الصحيحة: B**
 
 **Q3:** The memory that holds pixel properties such as color and depth is called:
+
 A) Cache memory
+
 B) Virtual memory
+
 C) Frame buffer
+
 D) Hard disk buffer
 
 **الإجابة الصحيحة: C**
 
 **Q4:** If a frame buffer has 24 bits per pixel, how many colors can it display?
+
 A) 256 colors
+
 B) 65,536 colors
+
 C) 16,777,216 colors
+
 D) 16 colors
 
 **الإجابة الصحيحة: C**
 
 **Q5:** Which screen resolution corresponds to WXGA?
+
 A) 640 x 480
+
 B) 800 x 600
+
 C) 1366 x 768
+
 D) 1920 x 1080
 
 **الإجابة الصحيحة: C**
 
 **Q6:** What is the function of the electron gun in a CRT monitor?
+
 A) To store pixel data
+
 B) To emit a beam of electrons to the phosphorescent screen
+
 C) To compute geometric transformations
+
 D) To process keyboard input
 
 **الإجابة الصحيحة: B**
 
 **Q7:** Which of the following is an example of a vector image format?
+
 A) .jpg
+
 B) .png
+
 C) .gif
+
 D) .ai
 
 **الإجابة الصحيحة: D**

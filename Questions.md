@@ -86,65 +86,97 @@ D) .ai
 **Correct Answer: D**
 
 **Q8:** The process of breaking an image into a grid of pixels is called:
+
 A) Vectorization
+
 B) Rasterization
+
 C) Transformation
+
 D) Clipping
 
 **Correct Answer: B**
 
 **Q9:** Which of the following is NOT a major application area of computer graphics mentioned in the lecture?
+
 A) Display of information
+
 B) Design
+
 C) Database management
+
 D) Simulation and animation
 
 **Correct Answer: C**
 
 **Q10:** In a frame buffer with 1 bit per pixel, what is the maximum number of colors that can be produced?
+
 A) 1 color
+
 B) 2 colors (typically black and white)
+
 C) 256 colors
+
 D) 16 million colors
 
 **Correct Answer: B**
 
 **Q11:** Which device is associated with Ivan Sutherland's Sketchpad and light-pen?
+
 A) Virtual Reality headset
+
 B) User interface for computer graphics
+
 C) Color printer
+
 D) Digital camera
 
 **Correct Answer: B**
 
 **Q12:** What does "depth" refer to in the context of a frame buffer?
+
 A) The physical size of the monitor
+
 B) The number of bits used per pixel (color level)
+
 C) The 3D effect of the image
+
 D) The refresh speed of the monitor
 
 **Correct Answer: B**
 
 **Q13:** Which of the following statements about GPU is FALSE?
+
 A) GPU is similar to a computer's CPU but specialized for graphics
+
 B) GPU is responsible for rasterizing pictures into pixels
+
 C) Recent GPUs contain over 100 processing units
+
 D) GPUs cannot be used for general purpose computing
 
 **Correct Answer: D**
 
 **Q14:** What is the aspect ratio of a screen with width 1024 pixels and height 768 pixels?
+
 A) 1.33:1
+
 B) 4:3
+
 C) Both A and B
+
 D) 16:9
 
 **Correct Answer: C** (4:3 = 1.33:1)
 
 **Q15:** Which image type records images descriptively using mathematics to identify lines and geometric shapes?
+
 A) Raster image
+
 B) Bitmap image
+
 C) Vector image
+
 D) Pixel image
 
 **Correct Answer: C**
